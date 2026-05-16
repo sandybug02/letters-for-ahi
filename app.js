@@ -128,6 +128,10 @@ const friends = [
   {
     name: "Roop",
     letter: "balloons ahi!! can't believe it's already been two years since we first met #cp that was not real at all (blacked tf out)\n\nanywho i hope this year is everything that you want and can't wait to get lit with you again sewn cakes and candles💯"
+  }, 
+  {
+    name: "Akshi",
+    letter: "HAIII AHII!!! happy 22nd birthdayyy!! i love you so so much! you’re such a sweet soul and im so grateful to have u as my big. I love being around u, ur energy, and u always light up every room ur in! i love our cafe debriefs, pregames, going on random side quests, clipping ppl tg (oops) and just yapping for hours at end! im so grateful to have u in my life, and i can’t wait to see u so soon. have the best day ever and have sm fun in barca and europe 😛😛"
   }
 ];
 
